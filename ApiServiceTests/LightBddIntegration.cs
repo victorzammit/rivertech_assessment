@@ -6,6 +6,6 @@ namespace ApiServiceTests
 {
     public class LightBddIntegration
     {
-        // Optional: Add any additional LightBDD configuration, if needed.
+        
     }
 }
